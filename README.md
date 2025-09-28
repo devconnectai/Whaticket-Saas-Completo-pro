@@ -1,10 +1,10 @@
-![Interface do ConnectAI - Imagem 1](https://github.com/andrew890074/Connect.AI/blob/main/demonstração/img1.png)
-![Interface do ConnectAI - Imagem 1](https://github.com/andrew890074/Connect.AI/blob/main/demonstração/img7.png)
-![Interface do ConnectAI - Imagem 2](https://github.com/andrew890074/Connect.AI/blob/main/demonstração/img2.png)
-![Interface do ConnectAI - Imagem 3](https://github.com/andrew890074/Connect.AI/blob/main/demonstração/img3.png)
-![Interface do ConnectAI - Imagem 4](https://github.com/andrew890074/Connect.AI/blob/main/demonstração/img4.png)
-![Interface do ConnectAI - Imagem 5](https://github.com/andrew890074/Connect.AI/blob/main/demonstração/img5.png)
-![Interface do ConnectAI - Imagem 6](https://github.com/andrew890074/Connect.AI/blob/main/demonstração/img6.png)
+![Interface do ConnectAI - Imagem 1](https://github.com/devconnectai/Whaticket-Saas-Completo-pro/blob/main/demonstra%C3%A7%C3%A3o/img1.png)
+![Interface do ConnectAI - Imagem 1](https://github.com/devconnectai/Whaticket-Saas-Completo-pro/blob/main/demonstra%C3%A7%C3%A3o/img7.png)
+![Interface do ConnectAI - Imagem 2](https://github.com/devconnectai/Whaticket-Saas-Completo-pro/blob/main/demonstra%C3%A7%C3%A3o/img2.png)
+![Interface do ConnectAI - Imagem 3](https://github.com/devconnectai/Whaticket-Saas-Completo-pro/blob/main/demonstra%C3%A7%C3%A3o/img3.png)
+![Interface do ConnectAI - Imagem 4](https://github.com/devconnectai/Whaticket-Saas-Completo-pro/blob/main/demonstra%C3%A7%C3%A3o/img4.png)
+![Interface do ConnectAI - Imagem 5](https://github.com/devconnectai/Whaticket-Saas-Completo-pro/blob/main/demonstra%C3%A7%C3%A3o/img5.png)
+![Interface do ConnectAI - Imagem 6](https://github.com/devconnectai/Whaticket-Saas-Completo-pro/blob/main/demonstra%C3%A7%C3%A3o/img6.png)
 
 # 🚀 ConnectAI: Sua Plataforma Completa de Atendimento Inteligente!
 
